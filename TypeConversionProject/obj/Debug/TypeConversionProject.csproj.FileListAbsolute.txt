@@ -1,0 +1,7 @@
+D:\VS Projects GitHub\Type-Conversion-Project\TypeConversionProject\bin\Debug\TypeConversionProject.exe.config
+D:\VS Projects GitHub\Type-Conversion-Project\TypeConversionProject\bin\Debug\TypeConversionProject.exe
+D:\VS Projects GitHub\Type-Conversion-Project\TypeConversionProject\bin\Debug\TypeConversionProject.pdb
+D:\VS Projects GitHub\Type-Conversion-Project\TypeConversionProject\obj\Debug\TypeConversionProject.csproj.AssemblyReference.cache
+D:\VS Projects GitHub\Type-Conversion-Project\TypeConversionProject\obj\Debug\TypeConversionProject.csproj.CoreCompileInputs.cache
+D:\VS Projects GitHub\Type-Conversion-Project\TypeConversionProject\obj\Debug\TypeConversionProject.exe
+D:\VS Projects GitHub\Type-Conversion-Project\TypeConversionProject\obj\Debug\TypeConversionProject.pdb
